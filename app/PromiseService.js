@@ -16,7 +16,7 @@ export default class PromiseService {
 
         }
 
-      }, 1000);
+      }, 500);
 
 
     });
