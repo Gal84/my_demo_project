@@ -28,7 +28,7 @@ export const posts = [
     category: 'Parrots',
     title: 'Parrots are cool',
     article: 'If you want someone to speak and never stop buy Parrot!',
-    imageUrl: 'https://cdn.pixabay.com/photo/2014/04/09/10/31/parrot-320006_960_720.jpg',
+    imageUrl: 'https://cdn.pixabay.com/photo/2013/04/05/19/17/bird-100880_960_720.jpg',
     publishDate: '26/5/2017'
   },
   {
